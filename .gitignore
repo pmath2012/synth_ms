@@ -1,0 +1,7 @@
+*.pyc
+*.pth
+*.pt
+*.log
+*.sh
+*.out
+*/*/runs/*
